@@ -23,7 +23,7 @@
     <item>
       <title>Amity: Introduction</title>
       <description>Amity (12) introduces the audiobook gift and reflects on her book choices.</description>
-      <enclosure url="https://treidling.github.io/family/Introduction_Amity.m4a" length="980000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Introduction_Amity.mp3" length="980000" type="audio/mpeg"/>
       <guid>amity-intro</guid>
       <pubDate>Fri, 10 May 2025 08:00:00 PST</pubDate>
       <itunes:duration>0:21</itunes:duration>
@@ -33,7 +33,7 @@
     <item>
       <title>Amity Reads: *Goodnight Moon*</title>
       <description>Amity reads this beloved classic.</description>
-      <enclosure url="https://treidling.github.io/family/Goodnight_Moon_Amity.m4a" length="2650000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Goodnight_Moon_Amity.mp3" length="2650000" type="audio/mpeg"/>
       <guid>amity-goodnight-moon</guid>
       <pubDate>Fri, 10 May 2025 08:05:00 PST</pubDate>
       <itunes:duration>1:35</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Amity Reads: *I Took the Moon for a Walk*</title>
       <description>A dreamy, poetic night adventure — read by Amity.</description>
-      <enclosure url="https://treidling.github.io/family/I_Took_The_Moon_For_a_Walk_Amity.m4a" length="3200000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/I_Took_The_Moon_For_a_Walk_Amity.mp3" length="3200000" type="audio/mpeg"/>
       <guid>amity-moon-walk</guid>
       <pubDate>Fri, 10 May 2025 08:10:00 PST</pubDate>
       <itunes:duration>2:14</itunes:duration>
@@ -54,7 +54,7 @@
     <item>
       <title>Keira Reads: *Little Blue Truck Leads the Way*</title>
       <description>Keira (10) reads this tale of cooperation with charm and flair.</description>
-      <enclosure url="https://treidling.github.io/family/Little_Blue_Truck_Leads_The_Way_Keira.m4a" length="2850000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Little_Blue_Truck_Leads_The_Way_Keira.mp3" length="2850000" type="audio/mpeg"/>
       <guid>keira-little-blue-truck</guid>
       <pubDate>Fri, 10 May 2025 08:15:00 PST</pubDate>
       <itunes:duration>3:30</itunes:duration>
@@ -64,7 +64,7 @@
     <item>
       <title>Keira Reads: *Slinky Malinki*</title>
       <description>Feline mischief unfolds in rhyme as Keira brings this cat to life.</description>
-      <enclosure url="https://treidling.github.io/family/Slinki_Malinki_Keira.m4a" length="2900000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Slinki_Malinki_Keira.mp3" length="2900000" type="audio/mpeg"/>
       <guid>keira-slinky-malinki</guid>
       <pubDate>Fri, 10 May 2025 08:20:00 PST</pubDate>
       <itunes:duration>3:56</itunes:duration>
@@ -75,7 +75,7 @@
     <item>
       <title>Telfer Reads: *Barnyard Dance*</title>
       <description>Telfer (7) reads with bouncy rhythm and big farmyard energy.</description>
-      <enclosure url="https://treidling.github.io/family/Barnyard_Dance_Telfer.m4a" length="1800000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Barnyard_Dance_Telfer.mp3" length="1800000" type="audio/mpeg"/>
       <guid>telfer-barnyard</guid>
       <pubDate>Fri, 10 May 2025 08:25:00 PST</pubDate>
       <itunes:duration>2:04</itunes:duration>
@@ -85,7 +85,7 @@
     <item>
       <title>Telfer Reads: *Giraffes Can&apos;t Dance*</title>
       <description>A joyful story about self-acceptance, read with warmth by Telfer.</description>
-      <enclosure url="https://treidling.github.io/family/Giraffes_Cant_Dance_Telfer.m4a" length="3000000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Giraffes_Cant_Dance_Telfer.mp3" length="3000000" type="audio/mpeg"/>
       <guid>telfer-giraffes</guid>
       <pubDate>Fri, 10 May 2025 08:30:00 PST</pubDate>
       <itunes:duration>6:32</itunes:duration>
@@ -96,7 +96,7 @@
     <item>
       <title>Family Reads: *Guess How Much I Love You*</title>
       <description>Amity, Keira, Telfer, and Dad take turns reading this classic expression of love.</description>
-      <enclosure url="https://treidling.github.io/family/Guess_How_Much_I_Love_You_All.m4a" length="4000000" type="audio/mp4"/>
+      <enclosure url="https://treidling.github.io/family/Guess_How_Much_I_Love_You_All.mp3" length="4000000" type="audio/mpeg"/>
       <guid>family-guess-how-much</guid>
       <pubDate>Fri, 10 May 2025 08:35:00 PST</pubDate>
       <itunes:duration>3:12</itunes:duration>
